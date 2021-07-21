@@ -28,7 +28,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "dharma-sdk-core": "^0.0.1",
+    "dharma-sdk-core": "^0.0.3",
     "dharma-v3-periphery": "0.0.1",
     "patch-package": "^6.4.7",
     "tiny-invariant": "^1.1.0",
