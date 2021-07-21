@@ -28,7 +28,7 @@
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "dharma-sdk-core": "^0.0.3",
+    "dharma-sdk-core": "^0.0.4",
     "dharma-v3-periphery": "0.0.1",
     "patch-package": "^6.4.7",
     "tiny-invariant": "^1.1.0",
@@ -36,8 +36,8 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
-    "dharma-v3-core": "0.0.1",
     "@uniswap/v3-periphery-optimism": "1.1.0-rc.1",
+    "dharma-v3-core": "0.0.1",
     "tsdx": "^0.14.1"
   },
   "engines": {
